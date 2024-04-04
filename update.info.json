@@ -137,10 +137,10 @@
         }
       },
       {
-        "name": "gregitas-core-1.0.35-custom",
+        "name": "gregitas-core-1.0.35",
         "info": {
           "patch": { "project": 971938, "file": 5216112 },
-          "replace": ["gregitas-core-1.0.33", "gregitas-core-1.0.35"]
+          "replace": ["gregitas-core-1.0.33"]
         }
       },
       {
